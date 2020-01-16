@@ -1,0 +1,378 @@
+{
+  "config": {
+    "title": "Gatsby Remark Oembed",
+    "description": "Transforms oembed links (Twitter, Instagram, YouTube, Vimeo, SoundCloud, CodePen etc.) into its corresponding embed code",
+    "menu": [
+      "Home",
+      "Components"
+    ],
+    "version": "2.0.0-rc.41",
+    "repository": "https://github.com/raae/gatsby-remark-oembed",
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/README.md",
+        "link": "",
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "gatsby-remark-oembed-plugin",
+            "depth": 1,
+            "value": "Gatsby Remark Oembed Plugin"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/setup.mdx",
+      "value": {
+        "name": "Getting Started",
+        "route": "/setup",
+        "id": "d751e66074a5fd31ca336aa4f8404693",
+        "filepath": "docs/setup.mdx",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/docs/setup.mdx",
+        "link": "",
+        "slug": "docs-setup",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "install",
+            "depth": 2,
+            "value": "Install"
+          },
+          {
+            "slug": "requirements",
+            "depth": 2,
+            "value": "Requirements"
+          },
+          {
+            "slug": "oembed-support",
+            "depth": 2,
+            "value": "Oembed support"
+          },
+          {
+            "slug": "example-site",
+            "depth": 2,
+            "value": "Example site"
+          },
+          {
+            "slug": "how-to-use",
+            "depth": 2,
+            "value": "How to use"
+          },
+          {
+            "slug": "configuration",
+            "depth": 3,
+            "value": "Configuration"
+          },
+          {
+            "slug": "optional-settings-for-providers",
+            "depth": 4,
+            "value": "Optional  settings  for providers"
+          },
+          {
+            "slug": "content",
+            "depth": 3,
+            "value": "Content"
+          },
+          {
+            "slug": "with-setting-useprefix-true",
+            "depth": 4,
+            "value": "With setting  usePrefix: true"
+          },
+          {
+            "slug": "with-setting-useprefix-array-of-prefixes",
+            "depth": 4,
+            "value": "With setting  usePrefix: array of prefixes"
+          },
+          {
+            "slug": "with-setting-useprefix-false",
+            "depth": 4,
+            "value": "With setting  usePrefix: false"
+          },
+          {
+            "slug": "options",
+            "depth": 2,
+            "value": "Options"
+          },
+          {
+            "slug": "release-routines",
+            "depth": 2,
+            "value": "Release routines"
+          },
+          {
+            "slug": "buy-me-a-coffee",
+            "depth": 2,
+            "value": "Buy me a coffee?"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/components/Alert.mdx",
+      "value": {
+        "name": "Alert",
+        "menu": "Components",
+        "id": "411d2842c3d65e6ee7d3ec119ed4c5a0",
+        "filepath": "src/components/Alert.mdx",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/src/components/Alert.mdx",
+        "link": "",
+        "slug": "src-components-alert",
+        "route": "/src-components-alert",
+        "headings": [
+          {
+            "slug": "alert",
+            "depth": 1,
+            "value": "Alert"
+          },
+          {
+            "slug": "properties",
+            "depth": 2,
+            "value": "Properties"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          },
+          {
+            "slug": "using-different-kinds",
+            "depth": 2,
+            "value": "Using different kinds"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/components/Button.mdx",
+      "value": {
+        "name": "Button",
+        "menu": "Components",
+        "id": "94c04b4e4bd29ffbdeec8755c1a4c04f",
+        "filepath": "src/components/Button.mdx",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/src/components/Button.mdx",
+        "link": "",
+        "slug": "src-components-button",
+        "route": "/src-components-button",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          },
+          {
+            "slug": "best-practices",
+            "depth": 3,
+            "value": "Best practices"
+          },
+          {
+            "slug": "properties",
+            "depth": 2,
+            "value": "Properties"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          },
+          {
+            "slug": "with-different-sizes",
+            "depth": 2,
+            "value": "With different sizes"
+          },
+          {
+            "slug": "with-different-colors",
+            "depth": 2,
+            "value": "With different colors"
+          },
+          {
+            "slug": "outlined",
+            "depth": 2,
+            "value": "Outlined"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/index.mdx",
+      "value": {
+        "name": "Home",
+        "route": "/",
+        "id": "522b7407e210088f3588b943aec44115",
+        "filepath": "src/pages/index.mdx",
+        "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/src/pages/index.mdx",
+        "link": "",
+        "slug": "src-pages-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "gatsby-remark-oembed-plugin",
+            "depth": 1,
+            "value": "Gatsby Remark Oembed Plugin"
+          },
+          {
+            "slug": "add--to-your-",
+            "depth": 1,
+            "value": "Add ... to your ..."
+          },
+          {
+            "slug": "how-gatsby-remark-oembed-plugin-works",
+            "depth": 1,
+            "value": "How Gatsby Remark Oembed Plugin works"
+          },
+          {
+            "slug": "playful-example",
+            "depth": 1,
+            "value": "(Playful) example"
+          },
+          {
+            "slug": "curious-yet",
+            "depth": 1,
+            "value": "Curious yet?"
+          },
+          {
+            "slug": "these--use-gatsby-remark-oembed-plugin",
+            "depth": 1,
+            "value": "These ... use Gatsby Remark Oembed Plugin"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/components/Alert.jsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Alert",
+          "methods": [],
+          "actualName": "Alert",
+          "props": {
+            "kind": {
+              "type": {
+                "name": "enum",
+                "value": [
+                  {
+                    "value": "'info'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'positive'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'negative'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'warning'",
+                    "computed": false
+                  }
+                ]
+              },
+              "required": false,
+              "description": "`info`, `positive`, `negative`, or `warning`",
+              "defaultValue": {
+                "value": "'info'",
+                "computed": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src/components/Button.jsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Button",
+          "methods": [],
+          "actualName": "Button",
+          "props": {
+            "scales": {
+              "type": {
+                "name": "enum",
+                "value": [
+                  {
+                    "value": "'small'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'normal'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'big'",
+                    "computed": false
+                  }
+                ]
+              },
+              "required": false,
+              "description": "",
+              "defaultValue": {
+                "value": "'normal'",
+                "computed": false
+              }
+            },
+            "kind": {
+              "type": {
+                "name": "enum",
+                "value": [
+                  {
+                    "value": "'primary'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'secondary'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'cancel'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'dark'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'gray'",
+                    "computed": false
+                  }
+                ]
+              },
+              "required": false,
+              "description": "",
+              "defaultValue": {
+                "value": "'primary'",
+                "computed": false
+              }
+            },
+            "outline": {
+              "type": {
+                "name": "bool"
+              },
+              "required": false,
+              "description": "",
+              "defaultValue": {
+                "value": "false",
+                "computed": false
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
