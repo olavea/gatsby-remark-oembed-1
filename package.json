@@ -2,10 +2,11 @@
   "name": "gatsby-remark-oembed",
   "private": true,
   "description": "Transforms oembed links (Twitter, Instagram, YouTube, Vimeo, SoundCloud, CodePen etc.) into its corresponding embed code",
-  "version": "2.0.0-rc.41",
+  "version": "early",
   "keywords": [
     "gatsby",
-    "docz"
+    "remark",
+    "oembed"
   ],
   "license": "MIT",
   "bugs": {
@@ -23,6 +24,7 @@
   "dependencies": {
     "docz": "^2.0.0-rc.76",
     "gatsby": "^2.13.73",
+    "gatsby-plugin-manifest": "^2.2.37",
     "gatsby-plugin-offline": "^2.2.7",
     "gatsby-plugin-sharp": "^2.2.18",
     "gatsby-theme-docz": "latest",

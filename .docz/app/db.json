@@ -6,7 +6,7 @@
       "Home",
       "Components"
     ],
-    "version": "2.0.0-rc.41",
+    "version": "early",
     "repository": "https://github.com/raae/gatsby-remark-oembed",
     "native": false,
     "themeConfig": {},
@@ -19,7 +19,7 @@
         "id": "04c6e90faac2675aa89e2176d2eec7d8",
         "filepath": "README.md",
         "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/README.md",
-        "link": "",
+        "link": "https://github.com/raae/gatsby-remark-oembed/edit/master/README.md",
         "slug": "readme",
         "route": "/readme",
         "name": "Readme",
@@ -41,7 +41,7 @@
         "id": "d751e66074a5fd31ca336aa4f8404693",
         "filepath": "docs/setup.mdx",
         "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/docs/setup.mdx",
-        "link": "",
+        "link": "https://github.com/raae/gatsby-remark-oembed/edit/master/docs/setup.mdx",
         "slug": "docs-setup",
         "menu": "",
         "headings": [
@@ -126,7 +126,7 @@
         "id": "411d2842c3d65e6ee7d3ec119ed4c5a0",
         "filepath": "src/components/Alert.mdx",
         "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/src/components/Alert.mdx",
-        "link": "",
+        "link": "https://github.com/raae/gatsby-remark-oembed/edit/master/src/components/Alert.mdx",
         "slug": "src-components-alert",
         "route": "/src-components-alert",
         "headings": [
@@ -161,7 +161,7 @@
         "id": "94c04b4e4bd29ffbdeec8755c1a4c04f",
         "filepath": "src/components/Button.mdx",
         "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/src/components/Button.mdx",
-        "link": "",
+        "link": "https://github.com/raae/gatsby-remark-oembed/edit/master/src/components/Button.mdx",
         "slug": "src-components-button",
         "route": "/src-components-button",
         "headings": [
@@ -211,7 +211,7 @@
         "id": "522b7407e210088f3588b943aec44115",
         "filepath": "src/pages/index.mdx",
         "fullpath": "/Users/olavea/Desktop/Develop/2020_2022_JS_GatsbyJS_Skills/gatsby-remark-oembed-1/gatsby-remark-oembed-1/src/pages/index.mdx",
-        "link": "",
+        "link": "https://github.com/raae/gatsby-remark-oembed/edit/master/src/pages/index.mdx",
         "slug": "src-pages-index",
         "menu": "",
         "headings": [
