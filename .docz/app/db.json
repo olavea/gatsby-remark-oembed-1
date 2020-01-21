@@ -218,22 +218,22 @@
           {
             "slug": "gatsby-remark-oembed-plugin",
             "depth": 1,
-            "value": "Gatsby Remark Oembed Plugin"
+            "value": "gatsby-remark-oembed Plugin"
           },
           {
-            "slug": "add--to-your-",
+            "slug": "glittering-embeds-in-your-webapp",
             "depth": 1,
-            "value": "Add ... to your ..."
+            "value": "Glittering embeds in your webapp"
           },
           {
-            "slug": "how-gatsby-remark-oembed-plugin-works",
+            "slug": "how-oembed-works-in-this-gatsby-remark-plugin",
             "depth": 1,
-            "value": "How Gatsby Remark Oembed Plugin works"
+            "value": "How Oembed works in this Gatsby Remark Plugin"
           },
           {
-            "slug": "playful-example",
+            "slug": "codesandbox-embed",
             "depth": 1,
-            "value": "(Playful) example"
+            "value": "CodeSandbox Embed"
           },
           {
             "slug": "curious-yet",
@@ -241,9 +241,9 @@
             "value": "Curious yet?"
           },
           {
-            "slug": "these--use-gatsby-remark-oembed-plugin",
+            "slug": "these-webapps-use-gatsby-remark-oembed-plugin",
             "depth": 1,
-            "value": "These ... use Gatsby Remark Oembed Plugin"
+            "value": "These webapps use Gatsby Remark Oembed Plugin"
           }
         ]
       }
